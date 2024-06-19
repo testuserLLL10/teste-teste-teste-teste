@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="$this.Icon" mimetype="application/x-microsoft.net.object.binary.base64"><value>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5JY29uAgAAAAhJY29uRGF0YQhJY29uU2l6ZQcEAhNTeXN0ZW0uRHJhd2luZy5TaXplAgAAAAIAAAAJAwAAAAX8////E1N5c3RlbS5EcmF3aW5nLlNpemUCAAAABXdpZHRoBmhlaWdodAAACAgCAAAAAAAAAAAAAAAPAwAAAL4QAAACAAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAweXzEsHl817B5fOSweXzxcHl89/B5fPfweXz38Hl89/B5fPfweXz38Hl89/B5fPfweXz38Hl89/B5fPfweXz38Hl89/B5fPfweXz38Hl897B5fPCweXzjsHl81rB5fMOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMHl80/B5fPoweXz/8Hl8//B5fP/weXz/8Hl8//B5fP/uN3t/4m1zv9tnbz/UoWq/z91nv9FeqL/TICm/2KUtf+TvdX/vOHw/8Hl8//B5fP/weXz/8Hl8//B5fP/weXz/8Hl8+HB5fNEAAAAAAAAAAAAAAAAAAAAAAAAAADB5fOUweXz/8Hl8//B5fP/weXz/8Hl8//B5fP/p87i/1WIrP8LSXz/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8HRXn/Q3mh/6fP4v/B5fP/weXz/8Hl8//B5fP/weXz/8Hl8/7B5fOEAAAAAAAAAAAAAAAAweXzV8Hl8//B5fP/weXz/8Hl8//B5fP/l8HY/zpwm/8CQHb/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/BUN4/1aJrf+94vH/weXz/8Hl8//B5fP/weXz/8Hl8//B5fNGAAAAAMHl8xfB5fPsweXz/8Hl8//B5fP/weXz/4240f8GRHn/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/0R6of/A5PP/weXz/8Hl8//B5fP/weXz/8Hl8+LB5fMPweXzcsHl8//B5fP/weXz/8Hl8/+NuNH/BkR5/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/22dvP/B5fP/weXz/8Hl8//B5fP/weXz/8Hl82DB5fOmweXz/8Hl8//B5fP/jbjR/wZEef8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/GlWG/7/k8v/B5fP/weXz/8Hl8//B5fP/weXzlMHl89rB5fP/weXz/5G81P8GRHn/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8HRXn/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/n8jd/8Hl8//B5fP/weXz/8Hl8//B5fPIweXz9sHl8/+/5PL/IVyL/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/2KUtf8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df+Arcn/weXz/8Hl8//B5fP/weXz/8Hl8+XB5fP3weXz/36syP8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8MSX3/t93t/wNCd/8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/3KhwP/B5fP/weXz/8Hl8//B5fP/weXz5sHl8/e/4/L/HlmJ/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/ydgjv/B5fP/Nm2Y/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/WYuv/7vg7/+Brsn/irXP/8Hl8//B5fPmweXz95G81P8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/AD91/wA/df8AP3X/HViI/8Hl8/+NuNH/AD91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</value></data><data name="textBox1.Text" xml:space="preserve"><value>
+End User License Agreement
+
+The Happy Otter
+HappyOtterScripts
+happyotterscripts@olypen.com
+
+2017.10.01
+
+1. This agreement is between the user and the Happy Otter. This
+agreement grants limited rights to the user provided that (a) the
+user does not violate the terms of this agreement and provided that
+(b) the user does not exercise rights related to the software that
+are not granted by this agreement.
+
+2. "Use" is the copying, installation, or operation of the software.
+
+3. "User" is (a) an individual that uses the software, or (b) an
+organization whose agent or employee uses the software to the
+benefit of the organization.
+
+4. "Distribution" is the copying, storing, or installation of the
+software to a computer system or storage medium, for the purpose of
+enabling other users to directly or indirectly use, copy, install,
+or distribute the software.
+
+5. The user may not distribute the software.
+
+6. The user may use the software provided that such use does not
+also constitute distribution.
+
+7. Termination of this agreement will immediately end all rights
+granted to the user by this agreement.
+
+8. The user may terminate this agreement at anytime by ceasing to
+exercise all rights granted by this agreement.
+
+9. The Happy Otter may terminate this agreement at anytime via
+written notice to the user.
+
+10. This agreement will terminate immediately if any term or
+provision of this agreement is deemed invalid or unenforceable,
+either by the opinion of the user, legal counsel to the user, or
+through relevent court ruling.
+
+11. THE SOFTWARE IS MADE AVAILABLE WITH NO EXPRESS 
+OR IMPLIED WARRANTY, NOT EVEN AN IMPLIED WARRANTY 
+OF MERCHANTABILITY.
+</value></data>
+  </root>
